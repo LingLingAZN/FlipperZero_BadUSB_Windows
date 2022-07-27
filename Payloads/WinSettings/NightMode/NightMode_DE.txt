@@ -1,7 +1,7 @@
 DUCKY_LANG DE
 REM Title: Nightmode
 REM Author: LingLingAZN
-REM Description: Activate the Windows nightmode settings on maximum
+REM Description: Activate the Windows night mode settings on maximum
 REM Target: Windows 10 & 11
 REM Version: 1.0
 REM Category: WinSettings
