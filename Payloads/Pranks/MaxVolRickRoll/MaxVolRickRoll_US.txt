@@ -1,8 +1,8 @@
 REM Title: Max Volume Rick Roll
 REM Author: LingLingAZN
-REM Description: Open the audio settings and set the volume to maximum, then start RickRoll. Delete run box history via small CMD prompt.
+REM Description: Open the audio settings and set the volume to maximum, then start RickRoll. Create a small CMD with nearly invisible color and delete run box history.
 REM Target: Windows 10 & 11
-REM Version: 1.0
+REM Version: 1.1
 REM Category: Prank
 REM ---------------------
 REM Audio settings + max vol
@@ -29,6 +29,9 @@ DELAY 100
 ENTER
 DELAY 500
 STRING MODE 15,1
+ENTER
+DELAY 100
+STRING color 01
 ENTER
 DELAY 100
 STRING reg delete HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\RunMRU /va /f
