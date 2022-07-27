@@ -1,0 +1,16 @@
+REM Title: Resize CMD
+REM Author: LingLingAZN
+REM Description: Open and resize the CMD prompt as small as possible
+REM Target: Windows 10 & 11
+REM Version: 1.0
+REM Category: Methods for scripts
+REM ---------------------
+GUI r
+DELAY 100
+STRING cmd
+DELAY 100
+ENTER
+DELAY 500
+STRING MODE 15,1
+DELAY 100
+ENTER
