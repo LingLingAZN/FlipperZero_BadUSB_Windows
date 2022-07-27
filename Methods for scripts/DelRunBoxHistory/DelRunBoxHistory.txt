@@ -1,6 +1,6 @@
 REM Title: Delete Run box history
 REM Author: LingLingAZN
-REM Description: Delete the run box history.
+REM Description: Delete the run box history via cmd.
 REM Target: Windows 10 & 11
 REM Version: WIP
 REM Category: Methods for scripts
