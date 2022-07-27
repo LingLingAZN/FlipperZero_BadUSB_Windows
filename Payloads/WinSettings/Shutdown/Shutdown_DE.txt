@@ -4,7 +4,7 @@ REM Author: LingLingAZN
 REM Description: Open CMD prompt as small as possible. Delete the run box history and Shutdown Windows
 REM Target: Windows 10 & 11
 REM Version: 1.0
-REM Category: Prank
+REM Category: WinSettings
 REM ---------------------
 GUI r
 DELAY 200
