@@ -21,7 +21,7 @@ STRING https://rebrand.ly/r1ckr0l13r
 DELAY 200
 ENTER
 DELAY 150
-REM Del run box history in small cmd prompt
+REM Del run box history in small cmd prompt and changed color
 GUI r
 DELAY 200
 STRING cmd
