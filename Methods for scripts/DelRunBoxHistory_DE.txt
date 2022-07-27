@@ -4,7 +4,7 @@ REM Author: LingLingAZN
 REM Description: Delete the run box history.
 REM Target: Windows 10 & 11
 REM Version: WIP
-REM Category: Prank
+REM Category: Method for scripts
 REM ---------------------
 GUI r
 DELAY 100
