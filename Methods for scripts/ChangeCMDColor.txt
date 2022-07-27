@@ -1,0 +1,18 @@
+DUCKY_LANG DE
+REM Title: Change CMD Color
+REM Author: LingLingAZN
+REM Description: Open CMD prompt and change colors
+REM Target: Windows 10 & 11
+REM Version: 1.0
+REM Category: Methods for scripts
+REM Color Options: https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/color
+REM ---------------------
+GUI r
+DELAY 100
+STRING cmd
+DELAY 100
+ENTER
+DELAY 500
+STRING color 01
+DELAY 100
+ENTER
