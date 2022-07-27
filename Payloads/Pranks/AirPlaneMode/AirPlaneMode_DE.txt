@@ -1,7 +1,7 @@
 DUCKY_LANG DE
 REM Title: Windows Airplane Mode
 REM Author: LingLingAZN
-REM Description: Activate AirPlane mode in Windows
+REM Description: Activate Air Plane mode in Windows. Delete run box history in small cmd prompt.
 REM Target: Windows 10 & 11
 REM Version: 1.0
 REM Category: Prank
