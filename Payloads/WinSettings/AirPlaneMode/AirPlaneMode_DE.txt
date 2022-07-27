@@ -4,7 +4,7 @@ REM Author: LingLingAZN
 REM Description: Activate Air Plane mode in Windows. Delete run box history in small cmd prompt.
 REM Target: Windows 10 & 11
 REM Version: 1.0
-REM Category: Prank
+REM Category: WinSettings
 REM ---------------------
 GUI r
 DELAY 200
