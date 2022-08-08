@@ -1,4 +1,3 @@
-DUCKY_LANG DE
 REM Title: Shutdown
 REM Author: LingLingAZN
 REM Description: Open CMD prompt as small as possible. Create a small CMD with nearly invisible color and delete run box history.
