@@ -1,4 +1,3 @@
-DUCKY_LANG DE
 REM Title: Simple Rick Roll
 REM Author: LingLingAZN
 REM Description: start RickRoll in browser.
